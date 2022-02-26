@@ -571,9 +571,10 @@ button {
 	padding: 30px 0px 30px 0px;
 	text-align: center;
 	background-color: #dbd7d7;
+	position: absolute;
+    bottom: 0; 
 }
 
-}
 
 
 
